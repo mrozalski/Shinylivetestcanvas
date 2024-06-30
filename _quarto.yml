@@ -1,0 +1,15 @@
+project:
+  title: "R-shinylive-demo"
+  output-dir: docs
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    grid: 
+      sidebar-width: 20%
+      margin-width: 15%
+      body-width:	1500px
+      gutter-width: 1.25rem
+    page-layout: article 
+
+
